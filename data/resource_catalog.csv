@@ -1,0 +1,750 @@
+Catagory ,Tool ,Location ,Training Required?,Service/Cost ,Academic level ,Who can use this space?,Notes,Software,Website
+Waterjet,ProtoMax,"Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48109","Yes,
+Pre-req: Wilson center basics 1 and 2 pass ",None,Any,Anyone but COE is prioritized ,"Materials: Acrylic, Polycarbonate, Aluminum, 
+Carbon/Alloy/Stainless Steel, Brass, Glass, Wood and more
+
+Tolerance:  ±0.009
+Bed: 12""x12""
+Max thickness: 1""","Free dowloadable:
+https://www.omax.com/libraries/omax/download/",https://teamprojects.engin.umich.edu/home/training/#robotics
+Fiber laser,Fablight 4500,"Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48109","Yes,
+Pre-req: Complete and pass Wilson Center 
+basics 1 and either FRB or Wilson Center basics 2
+",None,Any,Anyone but COE is prioritized ,"Materials: 6061 Aluminum, 7072 Aluminum, Brass, Copper
+
+
+Tolerance:  ±0.005
+Bed: 24""x48""
+Max thickness: Aluminum .125"", Copper .040"", Brass .0625""
+
+At this time, we no longer allow stainless steel to be cut on this machine",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Co2 laser,Universal systems PLS60.150D,"Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48109","Yes,
+Pre-req: Complete and pass Wilson Center 
+basics 1 and either FRB or Wilson Center basics 2
+",None,Any,Anyone but COE is prioritized ,"Materials: Acrylic, Glass (etch), Wood, Ceramic (etch), Acetate, 
+Cardboard, Paper and more
+
+Tolerance:  ±0.007
+Bed: 18""x32""x6""
+Max thickness: Varies by material 
+Operating Modes: Optimized raster, vector or combined
+Resolution: User controlled from 75 to 1200 dpi",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+3D printing,Ender 3 V2 FDM Printer,"Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48109",No,"x4 open access printers OR 
+Prints can be submitted through 
+through the digital submission form 
+found on website",Any,Anyone but COE is prioritized ,"Materials: PLA
+
+Tolerance:  ±0.054mm
+Bed: 220x220x250mm
+Print speed: 180mm/s
+
+Open access printers are first come first serve. Submitted prints
+are run in order recieved. See submission form for more info.","Free downloadable:
+https://ultimaker.com/software/ultimaker-cura/",https://teamprojects.engin.umich.edu/home/training/#robotics
+3D printing,Formlabs Form 3 SLA Printer,"Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48109",No,"Free of charge until 1000ml is used 
+Per person/group/team/lab
+
+Prints can be submitted through 
+the digital submission form 
+found on website",Any,Anyone but COE is prioritized ,"Materials: SLA resin (makerspace provides grey)
+
+Tolerance:  ± 0.2%
+Bed: 14.5cm×14.5cm×19.3cm
+Print speed: Varies
+
+Printers are not availible to the student body, parts must be 
+submitted prints through the makerspace's digital submission system. 
+Parts are run in order recieved. See submission form for more info.
+
+Prints are always solid unless designed to be hollow","Free downloadable:
+https://formlabs.com/software/preform/",https://teamprojects.engin.umich.edu/home/training/#robotics
+3D printing,Formlabs FUSE 1 SLS Printer,"Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48109",No,"
+
+Free of charge until 1kg is used
+Per person/group/team/lab
+
+Prints can be submitted through 
+the digital submission form 
+found on website",Any,Anyone but COE is prioritized ,"Materials: SLS Nylon 12 
+
+Tolerance:  ± 0.3%
+Bed: 16.5cm×16.5cm×30.0cm
+Print speed: Varies
+
+Printers are not availible to the student body, parts must be 
+submitted prints through the makerspace's digital submission system. 
+Parts are run in order recieved. See submission form for more info.
+
+Prints are always solid unless designed to be hollow","Free downloadable:
+https://formlabs.com/software/preform/",https://teamprojects.engin.umich.edu/home/training/#robotics
+Mills,Bridgeport 3 axis mill ,"Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48109","Yes, 
+Pre-req: Wilson center basics 1 and 2 pass
+
+Wilson Center mill training required
+Wilson center ""Operator"" status or mentor present 
+required",None,Any ,Anyone but COE is prioritized ,"Working area: 12""x32""x10""
+
+Spindle speed range low: 60 - 500 RPM
+Spindle speed range high: 500 - 4200 RPM
+X-Axis Table Travel: 36"" (914mm)
+Y-Axis Table Travel: 12"" (306mm)
+Knee Travel: 16"" (406mm)
+Quill Travel: 5"" (127mm)
+Throat Distance: Min. 6.75"" (171mm)/ Max. 18.75"" (476mm)
+
+Tolerance:  ±0.005 (depending on skill level)",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Lathe,Harrison 600 group M300 lathe,"Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48109","Yes, 
+Pre-req: Wilson center basics 1 and 2 pass
+
+Wilson Center lathe training required
+Wilson center ""Operator"" status or mentor present 
+required",None,Any ,Anyone but COE is prioritized ,"Working area: 12""x32""x10""
+
+Min. Spd: 40rpm
+Max Spd: 2500rpm
+
+Tolerance:  ±0.005 (depending on skill level)",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Saws,Bosch chop saw,"Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48109","Yes,
+Pre-req: Wilson center basics 1 and 2 pass 
+
+Must take Wilson center 3 saw training ",None,Any ,Anyone but COE is prioritized ,"Blade dia: 8-1/2 in
+Bevel Angle Range: 2° Left to 47° Right
+Max. Cut Depth: @ 0 Deg. Bevel 2""
+Max. Cut Depth: @ 45 Deg. Bevel 2""
+Miter Angle Range:52° Left to 60° Right
+Max. Blade Speed: 5,600 RPM
+
+Material application: Wood",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Saws,Dayton mini band saw,"Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48109","Yes,
+Pre-req: Wilson center basics 1 and 2 pass ",None,Any ,Anyone but COE is prioritized ,"Rectangular Cutting Capacity: Horizontal 4"" x 9.5""
+Throat Depth: Vertical 9.5""
+Miter Angle Range: 0°- 45°
+Blade thickness: .025""
+
+Material Application: Wood, plastic, 16g aluminum",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Specialty tools,Tekton torque wrench MN/24340,"Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48109","Yes,
+Pre-req: Wilson center basics 1 and 2 pass ",None,Any ,Anyone but COE is prioritized ,"Drive size: .5""
+Length: 25""
+Range: 25-250ft.-lb (33.9-338.9Nm)
+Increment: 1ft-lb (1.35Nm)
+
+Accuracy: ±4%",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Specialty tools,Tekton torque wrench MN/24330,"Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48110","Yes,
+Pre-req: Wilson center basics 1 and 2 pass ",None,Any ,Anyone but COE is prioritized ,"Drive size: .625""
+Length: 15.5""
+Range: 10-80ft.-lb (13.6-108.5Nm)
+Increment: 1ft-lb (1.35Nm)
+
+Accuracy: ±4%",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Specialty tools,Tekton torque wrench MN/24320,"Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48111","Yes,
+Pre-req: Wilson center basics 1 and 2 pass ",None,Any ,Anyone but COE is prioritized ,"Drive size: .25""
+Length: 12""
+Range: 20-200ft.-lb (2.2-22.6Nm)
+Increment: 1ft-lb (1.35Nm)
+
+Accuracy: ±4%",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Specialty tools,CDI torque wrench MN/301LDIN,"Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48111","Yes,
+Pre-req: Wilson center basics 1 and 2 pass ",None,Any ,Anyone but COE is prioritized ,"Drive size: .25""
+Length: 12""
+Range: 0-30ft.-lb (0-3.5Nm)
+Increment: 1ft-lb (1.35Nm)
+
+Accuracy: ±4%",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Saws,"Dake horizontal drop saw 
+MN/JH10W1","Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48111","Yes,
+Pre-req: Wilson center basics 1 and 2 pass ",None,Any ,Anyone but COE is prioritized ,"Material capacity: 10” rounds, 18” flats
+Max Blade Speed: 270 fpm
+Blade Width: 1”
+Bed Work Area: 11” x 18”",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Welding,Miller Syncrowave 300,"Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48111","Yes,
+Pre-req: Wilson center basics 1 and 2 pass 
+
+Must take Wilson Center welding training ",None,Any ,Anyone but COE is prioritized ,"AC/DC Tig welder
+DC Tig pulse
+
+Welding amperage range: 5-300*
+
+Some consumables and filler rod is provided
+PPE Provided",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Welding,"Miller Spectrum 875 plasma cutter
+and XT60 torch","Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48111","Yes,
+Pre-req: Wilson center basics 1 and 2 pass 
+
+Must take Wilson Center welding training
+Must take a plasma cutter training with permanant 
+staff at the Wilson center ",None,Any ,Anyone but COE is prioritized ,"Max cutting thickness: .865"" (mild steel), .625"" (stainless steel),
+.625"" (aluminum)
+
+PPE Provided",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Specialty tools,"Baileigh magnetic/pan break 
+MN/BB-4816M","Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48111","Yes, Pre-req: Wilson center basics 1 and 2 pass",None,Any ,Anyone but COE is prioritized ,"Bend length: 48""
+Max thickness: 16g (mild steel) 20g (stainless steel)
+Bend angle: 0-180 degrees
+Box depth: unlimited
+Clamping force: 12,000lb",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Specialty tools,"Baileigh Multi-purpose shear
+MN/MPS-5","Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48111","Yes, Pre-req: Wilson center basics 1 and 2 pass",None,Any ,Anyone but COE is prioritized ,"Shear capacity: .1875"" (4.76mm)
+Blade length: 5.25""",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Drill press,Clausing drill press,"Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48111","Yes, Pre-req: Wilson center basics 1 and 2 pass",None,Any ,Anyone but COE is prioritized ,"Spindle speed: 150 to 2000 rpm
+Spindle travel: 6.5″ (165mm)
+Working area: 22″ x 19″
+Table slots: two, 15.5″ (394mm) long, for .5″ (12.7mm) T-bolt",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+CNC,MonoFab SRM-20,"Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48111","Yes, Pre-req: Wilson center basics 1 and 2 pass",None,Any ,Anyone but COE is prioritized ,"Working area: 8""x6""x2.38"" (203.2mm x 152.4mm x 60.5mm)
+Max material weight: 4.4lbs (2.2kg)
+Spindle speed: 3000-7000rpm
+
+Material Application: Chemical wood, ABS, Modeling wax, PCB board
+
+At this time, there is not a training availible for this machine ",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Other,"BAILEIGH Downdraft table 
+MN/ DDTM-5922","Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48111","Yes, Pre-req: Wilson center basics 1 and 2 pass",None,Any ,Anyone but COE is prioritized ,"For Use With: Metal Surfaces
+Filter Rating: 250 microns
+Vacuum Suction: 1,400 cfm
+Application: Grinding, Sanding
+Fireproof Filter:Yes
+For Metal Surface:Yes",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Other,"Roland vinyl cutter
+CAMM-1 GS-24","Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48111","Yes, Pre-req: Wilson center basics 1 and 2 pass",None,Any ,Anyone but COE is prioritized ,"Max media width: 2 to 27-1/2 in. (50 to 700 mm)
+Max cutting area: Width: 22.9 in (584 mm), Length: 984.25 in (25000 mm)
+Max cutting thickness: .04"" (1 mm)
+Accuracy: ±0.2 %
+Max cutting speed: 19.69 in/s (500 mm/s) ",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Electronics,"Weller soldering iron
+MN/ WESD51","Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48111",None,None,Any ,Anyone but COE is prioritized ,Temp. range: 350°F to 850°F (176.6°C-454.4°C),None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Electronics,"Hakko soldering iron
+MN/ FX-888D","Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48111",None,None,Any ,Anyone but COE is prioritized ,Temp. range: 122°F-896°F (50°C to 480°C),None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Saws,Black and Decker chop saw,"Ford Motor Robotics Building, 2505 Hayward St, Ann Arbor, MI 48111","Yes,
+Pre-req: Wilson center basics 1 and 2 pass 
+
+Must take Wilson center 3 saw training ",None,Any ,Anyone but COE is prioritized ,"14"" abrasive cutting wheel ",,
+Mills,Bridgeport 3 axis mill ,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48109","Yes, 
+Pre-req: Wilson center basics 1 and 2 pass
+
+Wilson Center mill training required",None,Any ,Anyone but COE is prioritized ,"Working area: 12""x32""x10""
+
+Spindle speed range low: 60 - 500 RPM
+Spindle speed range high: 500 - 4200 RPM
+X-Axis Table Travel: 36"" (914mm)
+Y-Axis Table Travel: 12"" (306mm)
+Knee Travel: 16"" (406mm)
+Quill Travel: 5"" (127mm)
+Throat Distance: Min. 6.75"" (171mm)/ Max. 18.75"" (476mm)
+
+Tolerance:  ±0.005 (depending on skill level)",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+CNC,Bridgeport 3 axis mill ,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48109","Yes, 
+Pre-req: Wilson center basics 1 and 2 pass
+
+Wilson Center mill training required
+Wilson Center CNC mill training required",None,Any ,Anyone but COE is prioritized ,"Working area: 12""x32""x10""
+
+Spindle speed range low: 60 - 500 RPM
+Spindle speed range high: 500 - 4200 RPM
+X-Axis Table Travel: 36"" (914mm)
+Y-Axis Table Travel: 12"" (306mm)
+Knee Travel: 16"" (406mm)
+Quill Travel: 5"" (127mm)
+Throat Distance: Min. 6.75"" (171mm)/ Max. 18.75"" (476mm)
+
+Tolerance:  ±0.005 (depending on skill level)",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Lathe,Harrison 600 group M300 lathe,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48109","Yes, 
+Pre-req: Wilson center basics 1 and 2 pass
+
+Wilson Center lathe training is required",None,Any ,Anyone but COE is prioritized ,"Working area: 12""x32""x10""
+
+Min. Spd: 40rpm
+Max Spd: 2500rpm
+
+Tolerance:  ±0.005 (depending on skill level)",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+CNC,ShopBot CNC router,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48109","Yes, Pre-req: Wilson center basics 1 and 2 pass 
+
+Wilson Center ShopBot training is required",None,Any ,Anyone but COE is prioritized ,"Working area: 4'x8'x8""
+
+Min. spindle speed: 2000rpm
+Max spindle speed: 18,000rpm
+Max cut depth: 4.5""
+Max too shaft dia.: .5""
+
+Max cutting speed: 400in/min
+
+For use with: Tooling board, foam, plastics, wood
+Tolerance: ±0.005
+
+This machine cannot be used to cut metal and FRP
+Students provide cutting bits
+Tooling is not provided",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Drill press,"Clausing 20"" drill press ","Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48109","Yes, Pre-req: Wilson center basics 1 and 2 pass",None,Any ,Anyone but COE is prioritized ,"Spindle speed: 200 to 2000 rpm
+Spindle travel: 6.5″ (165mm)
+Working area: 22″ x 19″
+Table slots: two, 15.5″ (394mm) long, for .5″ (12.7mm) T-bolt",,
+Drill press,"Clausing 15"" drill press ","Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48109","Yes, Pre-req: Wilson center basics 1 and 2 pass",None,Any ,Anyone but COE is prioritized ,"Spindle speed: 800rpm
+Spindle travel: 6.5"" (165mm)
+Working area: 22″ x 19″
+Table slots: two, 15.5″ (394mm) long, for .5″ (12.7mm) T-bolt",,
+Welding,Miller Dynasty 210 Tig welder,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48109","Yes, Pre-req: Wilson center basics 1 and 2 pass 
+
+Wilson Center welding training is required",None,Any ,Anyone but COE is prioritized ,"AC/DC Tig welder
+AC/DC Pulse
+Amps: 10-210A
+Gas: Argon 100% 
+Filler rod size: 1/16"", 3/32"", & 1/8""
+FIller rod materials: Steels, Stainless, and Aluminum. 
+Some consumables and filler rod is provided
+PPE Provided",,
+Welding,MillerMatic 225 Mig welder,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48109","Yes, Pre-req: Wilson center basics 1 and 2 pass 
+
+Wilson Center welding training is required
+Wilson Center mig welder training required",None,Any ,Anyone but COE is prioritized ,"DC Mig welder
+Volts: 12-32v
+Wire feed speed: 50-800IMP
+Gas: Argon 75% C02 25%
+Filler wire size: .035""
+Filler rod materials: Steels 
+Some consumables and filler rod is provided
+PPE Provided",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Welding,Miller Dynasty 350 Tig welder,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48109","Yes, Pre-req: Wilson center basics 1 and 2 pass 
+
+Wilson Center welding training is required",None,Any ,Anyone but COE is prioritized ,"AC/DC Tig welder
+Amps: 10-300A
+Gas: Argon 100% 
+Filler rod size: 1/16"", 3/32"", & 1/8""
+FIller rod materials: Steels, Stainless, and Aluminum. 
+Some consumables and filler rod is provided
+PPE Provided",,
+CNC,HAAS Super VF-2,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48109","Yes, Pre-req: Wilson center basics 1 and 2 pass 
+
+Wilson Center manual mill training required, operator staus required
+Wilson Center CNC mill training required, operator status required ",,,Anyone but COE is prioritized ,"Mentor is required until operator status
+
+Working area: 30""x 16""x 20""
+Table size: 36""x14""
+
+Max spindle speed: 12000rpm
+Max cutting feed rate: 833in/min
+
+Number of tool pockets: 30
+Number of axis: 3+1
+
+Coolant capable
+Probe capability 
+
+For use with: Steel (stainless/mild/hardened etc..), Aluminum, Brass, 
+Bronze, Titanium, other metals
+
+Tolerance: ±0.002 (depending on skill level)
+
+Students provide cutting bits
+Tooling is not provided",,https://teamprojects.engin.umich.edu/home/training/#robotics
+CNC,HAAS SL-20,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48109","Yes, Pre-req: Wilson center basics 1 and 2 pass 
+
+Wilson Center manual lathe training required, operator staus required
+Wilson Center CNC lathe training required, operator status required ",None,Any,Anyone but COE is prioritized ,"Mentor is required until operator status
+
+Working area: 
+
+Max spindle speed: 
+
+Number of axis: 2
+
+For use with: Steel (stainless/mild/hardened etc..), Aluminum, Brass, 
+Bronze, Titanium, other metals
+
+Bar feeder capable ()
+
+Tolerance: ±0.002 (depending on skill level)",,
+CNC,HAAS TL-1,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48109","Yes, Pre-req: Wilson center basics 1 and 2 pass 
+
+Wilson Center manual lathe training required, operator staus required
+Wilson Center CNC lathe training required",None,Any,Anyone but COE is prioritized ,"Mentor is required until operator status
+
+Working area: 8in diameter x 30in long
+
+Max spindle speed: 1800 RPM
+
+Number of axis: 2
+
+For use with: Steel (stainless/mild/hardened etc..), Aluminum, Brass, 
+Bronze, Titanium, other metals
+
+Tolerance: ±0.005 (depending on skill level)",,
+Saws,Dake Drop saw,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48109","Yes, Pre-req: Wilson center basic 1 and 2 pass",None,Any,Anyone but COE is prioritized ,"Material capacity: 10” rounds, 18” flats
+Max Blade Speed: 270 fpm
+Blade Width: 1”
+Bed Work Area: 11” x 18”",,
+Electronics,Battery lab tools,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48109",,,,Anyone but COE is prioritized ,,,
+Saws,Sawstop Table saw,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48109","Yes, Pre-req: Wilson center basic 1 and 2 pass
+Wilson center Table saw training",None,Any,Anyone but COE is prioritized ,"Blade Dia.10 in
+Max. Cut Width Left of Blade: 12""
+Max. Cut Width Right of Blade: 52""
+Table Width: 85.25""
+Table Length: 27""
+Table Width with Extension: 85.25""
+Bevel Angle Range: 0° to 45°
+Left Max. Cutting Depth @ 0 Deg.: 3.125""
+Max. Cutting Depth @ 45 Deg.: 2.25""
+Blade kerf: .125""
+
+For use with: Wood, plastic, foam
+This saw cannot cut metal or anything conductive",None,
+Other,"Roland vinyl cutter
+CAMM-1 GS-24","Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48109","Yes, Pre-req: Wilson center basics 1 and 2 pass",None,Any ,Anyone but COE is prioritized ,"Max media width: 2 to 27-1/2 in. (50 to 700 mm)
+Max cutting area: Width: 22.9 in (584 mm), Length: 984.25 in (25000 mm)
+Max cutting thickness: .04"" (1 mm)
+Accuracy: ±0.2 %
+Max cutting speed: 19.69 in/s (500 mm/s) ",None,https://teamprojects.engin.umich.edu/home/training/#robotics
+Specialty tools,Jet HS1452-1T Hydraulic Shear ,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48109","Yes, Pre-req: Wilson center basics 1 and 2 pass",None,Any ,Anyone but COE is prioritized ,"Max. Soft. Alloy Capacity (Gauge):10 - 12
+Mild Steel Capacity (Gauge): 14
+Shearing Length Capacity: 52""
+Back Gauge Capacity: 25-1/2""
+Front Gauge Capacity: 23-1/2""
+Strokes Per Minute (Full Length): 20",None,
+Specialty tools,Tensmith HBU48-12 hand break,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48109","Yes, Pre-req: Wilson center basics 1 and 2 pass",None,Any ,Anyone but COE is prioritized ,"Mild Steel Capacity: 12 gauge (2.7mm)
+Stainless Capacity: 16 gauge (1.6mm)
+Bending Length: 48”
+Max Lift Of Beam: 1-1/2”
+Front To Rear Adj : 1”
+Max Depth Of Box: 4”
+Min Reverse Bend: 1/4”
+Minimum Flange Capacity: 1”
+Finger Widths: 2, 3, 4 “",None,
+Saws,Work - A - Matic 12' Bandsaw,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48110","Yes, Pre-req: Wilson center basics 1 and 2 pass",None,Any ,Anyone but COE is prioritized ,"Band Saw Type: Vertical
+Band Saw Operation: Manual
+Rectangular Cutting Capacity - Horizontal
+Throat Depth - Vertical: 5.5""
+Throat Depth - Horizontal: 19.5""
+Table Dimensions: 24.5”x24.5”
+
+For use with metal and plastics",,
+Saws,Work - A - Matic 9' Bandsaw,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48111","Yes, Pre-req: Wilson center basics 1 and 2 pass",None,Any ,Anyone but COE is prioritized ,"Band Saw Type: Vertical
+Band Saw Operation: Manual
+Rectangular Cutting Capacity - Horizontal
+Throat Depth - Vertical: 8""
+Throat Depth - Horizontal: 8.5""
+Table Dimensions: 29”x18.25”
+
+For use with metal and plastics",,
+Saws,"Kalamazoo K10B 10"" Abrasive Chop Saw","Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48112","Yes, Pre-req: Wilson center basics 1 and 2 pass",None,Any ,Anyone but COE is prioritized ,,,
+Specialty tools,Tumbler,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48113","Yes, Pre-req: Wilson center basics 1 and 2 pass",None,Any ,Anyone but COE is prioritized ,,,
+Other,Arbor press,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48115",,,,Anyone but COE is prioritized ,,,
+Specialty tools,Corner notcher,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48116",,,,Anyone but COE is prioritized ,,,
+Other,Disc sander,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48117",,,,Anyone but COE is prioritized ,,,
+Specialty tools,Tire changer,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48118",,,,Anyone but COE is prioritized ,,,
+Specialty tools,Slip roll sr24,"Wilson Student Team Project Center, 2603 Draper Dr, Ann Arbor, MI 48119",,,,Anyone but COE is prioritized ,,,
+Outsource vendor,Sendcutsend,"Western US: 4855 Longley Lane, Reno, NV 89502
+Eastern US: 129 Cleveland Drive, Paris, KY 40361",No,Price varies by service ,N/A,N/A,"Laser cutting, CNC, waterjet, anodizing, bending, forming, post processing,
+assembly, powder coating, plating, finishing ",N/A,https://sendcutsend.com/
+Outsource vendor,GoEngineer,"310 Depot St. Ann Arbor, MI 48104",No,Price varies by service ,N/A,N/A,"High quality production level 3D printing and design services
+
+-FDM
+-Polyjet
+-Dental
+-Metal
+-SAF
+-SLA
+-SLS
+-P3",N/A,https://www.goengineer.com/
+3D printing,Bambu X1-Carbon,"STAMPS Studios, Penny W. Stamps School of Art & Design
+2000 Bonisteel Blvd, Ann Arbor MI 48109-2069","No, can only be operated directly by staff",Students provide material,Any,"STAMPS Students only
+","All users must complete demo courses listed on the Canvas website.
+Machines must be reserved, send email to appropriate parties listed on 
+Canvas. 
+
+Materials: Must be approved by studio staff
+
+Tolerance:  +/- 0.4mm (+/- 0.015"") 
+Bed: 256 x 256 x 256mm³
+Print speed: 500 mm/s",N/A,STAMPS Studio Canvas 
+3D printing,Bambu X1E,"STAMPS Studios, Penny W. Stamps School of Art & Design
+2000 Bonisteel Blvd, Ann Arbor MI 48109-2069","No, can only be operated directly by staff",TBD,TBD,STAMPS Students only,"All users must complete demo courses listed on the Canvas website.
+Machines must be reserved, send email to appropriate parties listed on 
+Canvas. 
+
+Materials: Must be approved by studio staff
+
+Tolerance:  +/- 0.4mm (+/- 0.015"") 
+Bed: 256 x 256 x 256 mm³
+Print speed: 500 mm/s",,STAMPS Studio Canvas 
+3D printing,Formlabs Form2 SLA printer,"STAMPS Studios, Penny W. Stamps School of Art & Design
+2000 Bonisteel Blvd, Ann Arbor MI 48109-2069","No, can only be operated directly by staff","-$0.21/mL: Clear (v4), White (v4), 
+Grey (v4), Black (v4), Draft, 
+Model/Model v2, Rigid 1K
+
+-$0.28/mL: Tough 1500, Tough 2000, 
+Durable, Elastic 50A, Flexible 80A, 
+Grey Pro, High Temp
+
+-$0.36/mL: Rigid 4k, Flame Retardant
+
+-$0.43/mL: Castable Wax, Rigid 10K",TBD,STAMPS Students only,"Materials: SLA resin 
+
+Tolerance:  ± 0.2%
+Bed: 145 × 145 × 175 mm (5.7 × 5.7 × 6.9 in)
+Print speed: Varies
+
+
+Prints are always solid unless designed to be hollow",,STAMPS Studio Canvas 
+3D printing,Formlabs Form3L SLA printer,"STAMPS Studios, Penny W. Stamps School of Art & Design
+2000 Bonisteel Blvd, Ann Arbor MI 48109-2069","No, can only be operated directly by staff","-$0.21/mL: Clear (v4), White (v4), 
+Grey (v4), Black (v4), Draft, 
+Model/Model v2, Rigid 1K
+
+-$0.28/mL: Tough 1500, Tough 2000, 
+Durable, Elastic 50A, Flexible 80A, 
+Grey Pro, High Temp
+
+-$0.36/mL: Rigid 4k, Flame Retardant
+
+-$0.43/mL: Castable Wax, Rigid 10K",TBD,STAMPS Students only,"Materials: SLA resin 
+
+Tolerance:  ± 0.2%
+Bed: 33.5 × 20 × 30 cm (13.2 × 7.9 × 11.8 in)
+Print speed: Varies
+
+
+Prints are always solid unless designed to be hollow",,STAMPS Studio Canvas 
+3D printing,Formlabs FUSE 1 SLS Printer,"STAMPS Studios, Penny W. Stamps School of Art & Design
+2000 Bonisteel Blvd, Ann Arbor MI 48109-2069","No, can only be operated directly by staff","-$0.15/g: Nylon 12 Powder for Fuse1 
+SLS",TBD,STAMPS Students only,"SLS powder prints are printed on Fridays. The build chamber must be filled t
+o at least 30% density with parts before run  will not be run on a daily basis 
+like the rest of the machines. 
+
+Materials: Nylon 12 
+
+Tolerance:  ± 0.3%
+Bed: 16.5cm×16.5cm×30.0cm
+Print speed: Varies
+
+
+Prints are always solid unless designed to be hollow",,STAMPS Studio Canvas 
+Other,Roland GX-400 Vinyl Cutter,"STAMPS Studios, Penny W. Stamps School of Art & Design
+2000 Bonisteel Blvd, Ann Arbor MI 48109-2069","Yes, students must take ""Laser cutting training quiz"" and read theough 
+the ""Vinyl cutting guide"" See Canvas for video/quiz links. (link in website
+column)
+
+
+Signed form/Staff supervision required","Materials are student provided 
+and staff approved. See website 
+section for materials resources",TBD,STAMPS Students only,"Tool must be reserved via studio staff or Digifab studio sign up form &
+Web checkout form.
+
+Max media width: 2 to 39 in. (50 to 700 mm)
+Max cutting thickness: .04"" (1 mm)
+Accuracy: ±0.2 %
+Max cutting speed: 10 to 850 mm/sec. (in increments of 10 mm/sec.)",,"STAMPS Studio Canvas 
+
+https://umich.instructure.com/courses/397994/pages/laser-cutting-and-vinyl-cutting"
+Other,Heat Press,"STAMPS Studios, Penny W. Stamps School of Art & Design
+2000 Bonisteel Blvd, Ann Arbor MI 48109-2069",TBD,TBD,TBD,STAMPS Students only,,,"STAMPS Studio Canvas 
+
+https://umich.instructure.com/courses/397994/pages/laser-cutting-and-vinyl-cutting"
+Co2 laser,ILS 12.15 Universal Laser Cutter,"STAMPS Studios, Penny W. Stamps School of Art & Design
+2000 Bonisteel Blvd, Ann Arbor MI 48109-2069","Yes, Students must coordinate with studio staff for a demo session
+and must take ""Laser cutting training quiz"" and read theough 
+the ""Laser cutting guide"" See Canvas for video/quiz links. (link in website
+column)
+
+
+Signed form/Staff supervision required","Materials are student provided 
+and staff approved. See website 
+section for materials resources",TBD,STAMPS Students only,"Tool must be reserved via studio staff or Digifab studio sign up form &
+Web checkout form.
+
+Materials: Acrylic, Glass (etch), Wood, Ceramic (etch), Acetate, 
+Cardboard, Paper and more
+
+Tolerance:  ±0.007
+Bed: 48""x24""
+Max thickness: .25""",,"STAMPS Studio Canvas 
+
+https://umich.instructure.com/courses/397994/pages/laser-cutting-and-vinyl-cutting"
+Co2 laser,PLS 6.75 Laser Cutter,"STAMPS Studios, Penny W. Stamps School of Art & Design
+2000 Bonisteel Blvd, Ann Arbor MI 48109-2069","Yes, Students must coordinate with studio staff for a demo session
+and must take ""Laser cutting training quiz"" and read theough 
+the ""Laser cutting guide"" See Canvas for video/quiz links. (link in website
+column)
+
+
+Signed form/Staff supervision required","Materials are student provided 
+and staff approved. See website 
+section for materials resources",TBD,STAMPS Students only,"Tool must be reserved via studio staff or Digifab studio sign up form &
+Web checkout form.
+
+Materials: Acrylic, Glass (etch), Wood, Ceramic (etch), Acetate, 
+Cardboard, Paper and more
+
+Tolerance:  ±0.007
+Bed: 32""x18""
+Max thickness: .25""",,"STAMPS Studio Canvas 
+
+https://umich.instructure.com/courses/397994/pages/laser-cutting-and-vinyl-cutting"
+Soft goods,Barudan Digital Embroidery Machine,"STAMPS Studios, Penny W. Stamps School of Art & Design
+2000 Bonisteel Blvd, Ann Arbor MI 48109-2069","Yes, Students must coordinate with studio staff for a demo session
+
+Signed form/Staff supervision required","Materials are student provided 
+and staff approved. See website 
+section for materials resources",TBD,STAMPS Students only,"Designs/files must be sent to stamps-embroiderymachine@umich.edu, for 
+approval before setting up a reservation on the machine. 
+
+Tool must be reserved via studio staff or Digifab studio sign up form &
+Web checkout form.
+
+Up to x15 colors per design
+
+- Light to mid-weight fabrics with a tight weave will ensure the cleanest 
+embroidery
+
+ Hoop sizes:
+- 12cm (circle)
+- 15cm (circle)
+- 18cm (circle)
+- 240mm x 240 mm (square)
+- 300 x 290mm (rectangle)
+- 330 x 338mm (rectangle)",,"STAMPS Studio Canvas 
+
+https://umich.instructure.com/courses/397994/pages/laser-cutting-and-vinyl-cutting
+
+https://docs.google.com/document/d/12dSaQygAdQD9-fm3vtYELCfruh0Um1VQ_UMGEjSEstM/edit?usp=sharing"
+CNC,Shopbot PRSalpha CNC Router,"STAMPS Studios, Penny W. Stamps School of Art & Design
+2000 Bonisteel Blvd, Ann Arbor MI 48109-2069","Yes, Students must coordinate with studio staff for a demo session
+
+Signed form/Staff supervision required","Materials are student provided 
+and staff approved. See website 
+section for materials resources",TBD,STAMPS Students only,"Designs/files must be approved by studio staff. Tool must be reserved via 
+studio staff or Digifab studio sign up form & Web checkout form.
+
+Working area: 103” x 49” x 8”
+
+Min. spindle speed: 2000rpm
+Max spindle speed: 18,000rpm
+Max cut depth: Varies
+Max too shaft dia.: .5""
+
+Max cutting speed: 720 in/min
+
+For use with: Tooling board, foam, plastics, wood and more with approval
+from studio staff
+Tolerance: ±0.005",,STAMPS Studio Canvas 
+CNC,Roland MDX-540A CNC Milling Machine,"STAMPS Studios, Penny W. Stamps School of Art & Design
+2000 Bonisteel Blvd, Ann Arbor MI 48109-2069","Yes, Students must coordinate with studio staff for a demo session
+
+Signed form/Staff supervision required","Materials are student provided 
+and staff approved. See website 
+section for materials resources",TBD,STAMPS Students only,"""Designs/files must be approved by studio staff. Tool must be reserved via 
+studio staff or Digifab studio sign up form & Web checkout form.
+
+Working area: 12” x 18”
+
+Number of axis: x4
+
+Min. spindle speed: 400rpm
+Max spindle speed: 12,000rpm
+Max cut depth: Varies
+Max too shaft dia.: .5""""
+
+For use with: Tooling board, foam, plastics, wood and more with approval
+from studio staff
+Tolerance: ±0.005""",,STAMPS Studio Canvas 
+Saws,Panel Saw,"STAMPS Studios, Penny W. Stamps School of Art & Design
+2000 Bonisteel Blvd, Ann Arbor MI 48109-2069","No, can only be operated directly by staff","Materials are student provided 
+and staff approved. See website 
+section for materials resources",TBD,STAMPS Students only,For use with wood and MDF,,STAMPS Studio Canvas 
+Specialty tools,Mayku Vacuum Forming Machine,"STAMPS Studios, Penny W. Stamps School of Art & Design
+2000 Bonisteel Blvd, Ann Arbor MI 48109-2069","Yes, Students must coordinate with studio staff for a demo session
+
+Signed form/Staff supervision required","Materials are student provided 
+and staff approved. See website 
+section for materials resources",TBD,STAMPS Students only,"Bed size: 200mm (L) × 200mm (W) x 130mm (H)
+
+Temp: 160C - 340C.",,STAMPS Studio Canvas 
+Outsource vendor,"ZYCI 
+(Pronounced Zee-Key)","3286 Catalina Drive, Chamblee, GA 30341",N/A,Request quote,N/A,Any,"-Custom CNC machining
+-3D printing 
+-Laser marking",N/A,https://www.zyci.com/
+Outsource vendor,Fictiv,N/A,N/A,Request quote,N/A,Any,"Custom CNC machining
+-Electrical discharge machining
+-Gear hobbing",N/A,https://www.fictiv.com/lp-ps/cnc-machining?utm_source=google&utm_medium=cpc&utm_campaign=cnc+manufacturing&utm_content=cnc+manufacturing&utm_term=manufacturing%20machine%20parts&gad_source=1&gclid=Cj0KCQiA3sq6BhD2ARIsAJ8MRwUwW4KrbRT7E1UZU1CuIdf2awfM7fF7zdtvUkt15W4qJEAsvoUyQ5AaAvCtEALw_wcB
+Outsource vendor,Xometry,"6116 Executive Blvd
+Ste. 800
+North Bethesda, MD 20852",N/A,Request quote,N/A,Any,"-Additive manufacturig
+-Custom CNC machining
+-Sheet and Tube Fabrication 
+-Injection moulding
+-Plastic part production
+-Die casting, Metal stamping
+-Finishing  services
+-Precision/Surface grinding
+-Weldments",N/A,https://www.xometry.com/
+Soft goods,Juki industrial grade sewing machine kessler,"Lurie Biomedical Engineering Building: 1101 Beal Ave, Ann Arbor, MI 48109",TDB,TDB,TDB,TDB,TDB,,
+Soft goods,Singer 4411 Heavy duty,"Lurie Biomedical Engineering Building: 1101 Beal Ave, Ann Arbor, MI 48110",TDB,TDB,TDB,TDB,TDB,,
+3D printing,Formlabs Form 3 SLA Printer,"Lurie Biomedical Engineering Building: 1101 Beal Ave, Ann Arbor, MI 48111",TDB,TDB,TDB,TDB,TDB,,
+3D printing,Formlabs Form 2 SLA printer,"Lurie Biomedical Engineering Building: 1101 Beal Ave, Ann Arbor, MI 48112",TDB,TDB,TDB,TDB,TDB,,
+3D printing,Makerbot FDM printer,"Lurie Biomedical Engineering Building: 1101 Beal Ave, Ann Arbor, MI 48113",TDB,TDB,TDB,TDB,TDB,,
+3D printing,Dremel 3D printer,"Lurie Biomedical Engineering Building: 1101 Beal Ave, Ann Arbor, MI 48114",TDB,TDB,TDB,TDB,TDB,,
+3D printing,Formlabs Form 1 SLA printer,"Lurie Biomedical Engineering Building: 1101 Beal Ave, Ann Arbor, MI 48115",TDB,TDB,TDB,TDB,TDB,,
+Wood Working,"Wood planer 13""",CSED,TDB,TDB,TDB,TDB,TDB,,
+3D printing,3D printer,CSED,TDB,TDB,TDB,TDB,TDB,,
+Saws,Band saw,CSED,TDB,TDB,TDB,TDB,TDB,,
+Other,Belt/Disc sander,CSED,TDB,TDB,TDB,TDB,TDB,,
+Saws,Circular saw,CSED,TDB,TDB,TDB,TDB,TDB,,
+Drill press,Drill press,CSED,TDB,TDB,TDB,TDB,TDB,,
+Other,Grinder,CSED,TDB,TDB,TDB,TDB,TDB,,
+Saws,Jigsaw,CSED,TDB,TDB,TDB,TDB,TDB,,
+Saws,Miter saw,CSED,TDB,TDB,TDB,TDB,TDB,,
+Saws,Recipricating saw,CSED,TDB,TDB,TDB,TDB,TDB,,
+CNC,Router,CSED,TDB,TDB,TDB,TDB,TDB,,
+Soft goods,Singer 4411 Heavy duty sewing machine ,CSED,TDB,TDB,TDB,TDB,"Number of stitch applications: 69
+
+Adjustable stich width: 6mm
+
+For use with: Lightweight fabrics, mediumweight fabrics, demin, 
+2 layers of canvas with the correct needle, up to 4oz leather",,
+Soft goods,Brother PE800 Embroidery machine ,CSED,TDB,TDB,TDB,TDB,TDB,,
+Electronics,Solderig iron,CSED,TDB,TDB,TDB,TDB,TDB,,
+Saws,Table saw,CSED,TDB,TDB,TDB,TDB,TDB,,
+3D printing,Formlabs Form3 SLA printer,"Fabrication Underground; The Duderstadt Center 
+2281 Bonisteel Blvd, Ann Arbor, MI 48109",,,,,,,https://www.dc.umich.edu/partners-2/ground-connections-dmc/fabrication-studio/
+3D printing,Stratasys J850 Polyjet 3D printer,"Fabrication Underground; The Duderstadt Center 
+2281 Bonisteel Blvd, Ann Arbor, MI 48109",,,,,,,https://www.dc.umich.edu/partners-2/ground-connections-dmc/fabrication-studio/
+3D printing,BigRep Studio G2,"Fabrication Underground; The Duderstadt Center 
+2281 Bonisteel Blvd, Ann Arbor, MI 48109",,,,,,,https://www.dc.umich.edu/partners-2/ground-connections-dmc/fabrication-studio/
+3D printing,Asiga Max X,"Fabrication Underground; The Duderstadt Center 
+2281 Bonisteel Blvd, Ann Arbor, MI 48109",,,,,,,https://www.dc.umich.edu/partners-2/ground-connections-dmc/fabrication-studio/
+CNC,Bantam PCB,"Fabrication Underground; The Duderstadt Center 
+2281 Bonisteel Blvd, Ann Arbor, MI 48109",,,,,,,https://www.dc.umich.edu/partners-2/ground-connections-dmc/fabrication-studio/
+3D printing,Prusa MK4,"Fabrication Underground; The Duderstadt Center 
+2281 Bonisteel Blvd, Ann Arbor, MI 48109",,,,,,,https://www.dc.umich.edu/partners-2/ground-connections-dmc/fabrication-studio/
+Co2 laser,Epiloge Fusion Pro Laser Cutter,"Fabrication Underground; The Duderstadt Center 
+2281 Bonisteel Blvd, Ann Arbor, MI 48109","Yes. Complete and ear your equipment certification via the Canvas line on 
+Fabrication Ungergrounds website.",None,,,"Operating Modes – Optimized raster, vector or combined
+
+Resolution – User controlled from 75 to 1200 dpi
+
+Materials: Acrylic, Glass (etch), Wood, Ceramic (etch), Acetate, 
+Cardboard, Paper and more
+
+Tolerance:  ±0.007
+Bed: 24” x 24 x 9” (609 x 609 x 228 mm)
+
+Material is student provided and staff approved
+
+Time on the machine must be reserved",,https://www.dc.umich.edu/partners-2/ground-connections-dmc/fabrication-studio/
+Soft goods,Brother sewing machine,"Fabrication Underground; The Duderstadt Center 
+2281 Bonisteel Blvd, Ann Arbor, MI 48109",,,,,,,https://www.dc.umich.edu/partners-2/ground-connections-dmc/fabrication-studio/
+Specialty tools,Letter press,"
+Shapiro Library: 919 S University Ave, Ann Arbor, MI 48109",,,,,,,
+Specialty tools,Laser cutter,"
+Shapiro Library: 919 S University Ave, Ann Arbor, MI 48109",,,,,,,
+Specialty tools,Digital die cutter,"
+Shapiro Library: 919 S University Ave, Ann Arbor, MI 48109",,,,,,,
+Soft goods,Sewing machine,"
+Shapiro Library: 919 S University Ave, Ann Arbor, MI 48109",,,,,,,
+Electronics,Solder station,"
+Shapiro Library: 919 S University Ave, Ann Arbor, MI 48109",,,,,,,
+Specialty tools,Platen press,"
+Shapiro Library: 919 S University Ave, Ann Arbor, MI 48109",,,,,,,
+Specialty tools,Proofing press,"
+Shapiro Library: 919 S University Ave, Ann Arbor, MI 48109",,,,,,,
+Specialty tools,Pictoral printing ornaments ,"
+Shapiro Library: 919 S University Ave, Ann Arbor, MI 48109",,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,"LBME makerspace, bersly, arts engine, BME design space ",,,,,,,
