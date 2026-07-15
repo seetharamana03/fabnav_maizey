@@ -6,7 +6,7 @@ from google.oauth2.service_account import Credentials
 # SETTINGS
 # -----------------------------
 CSV_PATH = "fabnav_evaluation_output.csv"  # This CSV contains the evaluator output
-SPREADSHEET_ID = "1DzY4G55R-b_8byoJkKNh7JPTjV0cT5iIQjm7VT6uqe0"     # Replace with your Google Sheet ID
+SPREADSHEET_ID = ""     # Replace with your Google Sheet ID
 WORKSHEET_NAME = "In Progress"               # The tab name in Google Sheets
 SERVICE_ACCOUNT_FILE = "service_account.json"
 # -----------------------------
